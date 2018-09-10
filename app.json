@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "WhatsOnPizza",
+    "icon": "./src/assets/images/logo.png",
+    "version": "1.0.1",
+    "slug": "whatsonpizza",
+    "description": "Mobile application for MXNet & TensorFlow Pizza Image Classifier",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.lohika.whatsonpizza"
+    },
+    "android": {
+      "package": "com.lohika.whatsonpizza"
+    }
+  }
+}
