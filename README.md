@@ -1,8 +1,8 @@
 # What's On Pizza Mobile
 
-Mobile application for [MXNet & TensorFlow Pizza Image Classifier](https://github.com/Lohika-Labs/whatsonpizza)
+Mobile application for [MXNet & TensorFlow Pizza Image Classifier](https://github.com/Lohika-Labs/whatsonpizza).
 
-Latest application release build could be find [here](https://expo.io/@lohika/whatsonpizza)
+Latest application release build could be find [here](https://expo.io/@lohika/whatsonpizza).
 
 This project was built with [React Native](https://github.com/react-community/create-react-native-app), [Expo.io](https://expo.io/), [Redux.js](https://redux.js.org/).
 
