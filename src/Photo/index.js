@@ -27,7 +27,7 @@ export default class Photo extends React.Component {
     if (this.camera) {
       this.camera.takePictureAsync({
         base64: true,
-        quality: 0.3,
+        quality: 0.2,
       }).then(photo => {
         this.setState({ photo });
       });

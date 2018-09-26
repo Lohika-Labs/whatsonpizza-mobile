@@ -25,7 +25,7 @@ export default class Gallery extends React.Component {
   
     let photo = await ImagePicker.launchImageLibraryAsync({
       base64: true,
-      quality: 0.3,
+      quality: 0.2,
       mediaTypes: 'Images',
     });
 
